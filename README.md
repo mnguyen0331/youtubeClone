@@ -6,7 +6,7 @@
 - Channel's name: SuperSimpleDev 
 - Link: https://www.youtube.com/watch?v=G3e-cpL7ofc
 
-## Skills learned in building this project:  
+## Skills learned while building this project:  
 - HTML elements and attributes
 - HTML structure
 - Styling texts
@@ -15,3 +15,4 @@
 - CSS Flexbox
 - CSS position
 - Creating tooltips
+- Responsive Web Design
